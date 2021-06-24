@@ -1,0 +1,17 @@
+[
+  {"_id" : "60d3dad22a7c148587aed806",
+    "name": "mega",
+    "price": 1000,
+    "restaurateurId": "60d3d8195adfde7b89689c9b"
+  },
+  {"_id" : "60d3dad22a7c148587aed807",
+    "name": "pizza",
+    "price": 600,
+    "restaurateurId": "60d3d8195adfde7b89689c9b"
+  },
+  {    "_id" : "60d3dad22a7c148587aed808",
+    "name": "khoubza",
+    "price": 10,
+    "restaurateurId": "60d3d8195adfde7b89689c9b"
+  }
+]

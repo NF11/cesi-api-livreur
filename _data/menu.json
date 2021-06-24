@@ -1,0 +1,41 @@
+[
+  {
+    "_id" : "60d3dcb92d9ee988618c4a5a",
+    "name": "menu 1",
+    "productsMenu": [
+      {
+        "_id" : "60d3dad22a7c148587aed806"
+      },{
+        "_id" : "60d3dad22a7c148587aed807"
+      }
+    ],
+    "price": 900,
+    "restaurateurId": "60d3d8195adfde7b89689c9c"
+  },
+  {
+    "_id" : "60d3dcb92d9ee988618c4a5b",
+    "name": "menu 2",
+    "productsMenu": [
+      {
+        "_id" : "60d3dad22a7c148587aed806"
+      },{
+        "_id" : "60d3dad22a7c148587aed808"
+      }
+    ],
+    "price": 900,
+    "restaurateurId": "60d3d8195adfde7b89689c9c"
+  },
+  {
+    "_id" : "60d3dcb92d9ee988618c4a5c",
+    "name": "menu 3",
+    "productsMenu": [
+      {
+        "_id" : "60d3dad22a7c148587aed807"
+      },{
+        "_id" : "60d3dad22a7c148587aed808"
+      }
+    ],
+    "price": 900,
+    "restaurateurId": "60d3d8195adfde7b89689c9c"
+  }
+]

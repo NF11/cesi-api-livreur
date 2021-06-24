@@ -1,0 +1,81 @@
+[
+  {
+    "_id" : "60d3d8195adfde7b89689c9b",
+    "name": "pipo1",
+    "email": "string8848484@gmail.com",
+    "phone": "0784654645564",
+    "role": "dev",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689c9c",
+    "name": "pipo2",
+    "email": "strintestg5616511@gmail.com",
+    "phone": "07846514645564",
+    "role": "restaurateur",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689c9d",
+    "name": "pipo3",
+    "email": "string3@gmail.com",
+    "phone": "0784654645564",
+    "role": "tech",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689c9e",
+    "name": "pipo5",
+    "email": "string5@gmail.com",
+    "phone": "0784654645564",
+    "role": "livreur",
+    "password": "string"
+  },
+  {
+    "name": "pipo465",
+    "email": "string56@gmail.com",
+    "phone": "0784654645564",
+    "role": "livreur",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689c9f",
+    "name": "tree566",
+    "email": "string556@gmail.com",
+    "phone": "0784654645564",
+    "role": "livreur",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689ca0",
+    "name": "trcommerciale566",
+    "email": "strincommercial56@gmail.com",
+    "phone": "0784654645564",
+    "role": "commercial",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689ca1",
+    "name": "client",
+    "email": "string5845456@gmail.com",
+    "phone": "0784654645564",
+    "role": "client",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689ca2",
+    "name": "client2",
+    "email": "string5526@gmail.com",
+    "phone": "0784654645564",
+    "role": "client",
+    "password": "string"
+  },
+  {
+    "_id" : "60d3d8195adfde7b89689ca3",
+    "name": "pipo4",
+    "email": "string4@gmail.com",
+    "phone": "0784654645564",
+    "role": "livreur",
+    "password": "string"
+  }
+]

@@ -1,9 +1,13 @@
 const express = require("express");
 const bodyParser = require("body-parser");
+const {
+  loggerReq,
+} = require("@cesi-project/common/build/middlewares/log-request");
 const { NotFoundError } = require("@cesi-project/common");
 
 // Express app initialization
 const app = express();
+app.use(loggerReq);
 
 // Redirecting to controllers by route
 app.use(bodyParser.json());

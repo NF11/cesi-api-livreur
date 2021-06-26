@@ -1,4 +1,4 @@
-# DevCamper API
+# livreur API
 
 > Backend API for livreur application
 
@@ -24,7 +24,7 @@ npm start
 
 ## Database Seeder
 
-To seed the database with users, bootcamps, courses and reviews with data from the "\_data" folder, run
+To seed the database with users, order, Product and Menu with data from the "\_data" folder, run
 
 ```
 # Destroy all data
